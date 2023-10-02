@@ -1,0 +1,185 @@
+@font-face {
+    font-family: 'Inter';
+    src: url(./fonts/Inter-Bold.ttf);
+}
+@font-face {
+    font-family: 'Inter';
+    src: url(./fonts/Inter-Regular.ttf);
+}
+
+
+
+.h-1{
+    margin-top: 25px;
+    margin-left: 31px;
+    width: 553px;
+    height: 156px;
+    top: 25px;
+    left: 31px;
+    font-family: 'Inter';
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 39px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+ 
+.hr-1{
+    margin-top: 39px;
+    margin-left: 31px;
+}
+
+.about{
+    margin-top: 39px;
+    margin-left: 31px;
+    width: 57px;
+    height: 24px;
+    top: 259px;
+    left: 31px;
+    font-family: 'Inter';
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.p-1{
+    margin-top: 20px;
+    margin-left: 31px;
+    width: 471px;
+    height: 102px;
+    top: 303px;
+    left: 31px;
+    font-family: 'Inter';
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+.hr-2, .hr-3{
+    margin-top: 39px;
+    margin-left: 31px;
+}
+
+.Hard_skills{
+    margin-top: 39px;
+    margin-left: 31px;
+    width: 100px;
+    height: 24px;
+    top: 522px;
+    left: 32px;
+    font-family: 'Inter';
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.p-2{
+    margin-top: 20px;
+    margin-left: 32px;
+    width: 330px;
+    height: 85px;
+    top: 566px;
+    left: 32px;
+    font-family: 'Inter';
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+.hr-4{
+    margin-top: 56px;
+    margin-left: 32px;
+}
+.hr-5{
+    margin-top: 39px;
+    margin-left: 31px;
+}
+
+.writing{
+    margin-top: 39px;
+    margin-left: 31px;
+    width: 166px;
+    height: 24px;
+    top: 785px;
+    left: 31px;
+    font-family: 'Inter';
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+.b1{
+    margin-top: 15px;
+    margin-left: 31px;
+    width: 122px;
+    height: 17px;
+    top: 824px;
+    left: 31px;
+    font-family: 'Inter';
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 17px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+.p-3{
+    margin-top: 15px;
+    margin-left: 31px;
+    width: 459px;
+    height: 34px;
+    top: 856px;
+    left: 31px;
+    font-family: 'Inter';
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.b2{
+    margin-top: 44px;
+    margin-left: 31px;
+    width: 125px;
+    height: 17px;
+    top: 934px;
+    left: 31px;
+    font-family: 'Inter';
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 17px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.p-4{
+    margin-top: 13px;
+    margin-left: 31px;
+    width: 490px;
+    height: 51px;
+    top: 964px;
+    left: 31px;
+    font-family: 'Inter';
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.hr-6{
+    margin-top: 34px; 
+    margin-bottom: 55px;
+    margin-left: 31px;
+}
